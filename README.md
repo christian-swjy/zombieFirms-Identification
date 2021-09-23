@@ -10,6 +10,6 @@ A brief description on each files is provided below:
 3. __zombieFirms_Checker.ipynb__ : <br>Jupyter notebook file containing the script that identify zombie firms using the ICR_Dummy.xlsx data.<br />
 4. __zombieShare_Output.xlsx__ : <br>Output file of zombieFirms_Checker.ipynb. Contains the annual zombie share in Indonesia from 1999 to 2019.<br />
 5. __Data_CausesModel (available in .dta and .xlsx)__ : <br>The compiled data for the "potential *causes* of zombie firms" model.<br />
-6. __Data_ConsequencesModel (available in .dta and .xlsx)__ : <br>The compiled data for the "potential *consequences* of zombie firms" model.<br />
+6. __Data_ConsequencesModel (available in .dta and .xlsx)__ : <br>The compiled data for the "estimated *consequences* of zombie firms" model.<br />
 7. __doFile_CausesModel.do__ : <br>STATA do file for the "potential *causes* of zombie firms" model.<br />
-8. __doFile_ConsequencesModel.do__ : <br>STATA do file for the "potential *consequences* of zombie firms" model.<br />
+8. __doFile_ConsequencesModel.do__ : <br>STATA do file for the "estimated *consequences* of zombie firms" model.<br />
