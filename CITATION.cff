@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "University of Glasgow"
+    family-names: Siauwijaya
+    given-names: Christian
+cff-version: "1.1.0"
+date-released: 2021-09-18
+message: "If you use this software and data, please cite it using this metadata."
+repository-code: "https://github.com/christian-swjy/zombieFirms-Identification"
+title: "Zombie Firms Identifier"
+version: "1.0"
+...
