@@ -13,7 +13,7 @@ A brief description on each files is provided below:
 6. __Data_ConsequencesModel (available in .dta and .xlsx)__ : <br>The compiled data for the "estimated *consequences* of zombie firms" model.<br />
 7. __doFile_CausesModel.do__ : <br>STATA do file for the "potential *causes* of zombie firms" model.<br />
 8. __doFile_ConsequencesModel.do__ : <br>STATA do file for the "estimated *consequences* of zombie firms" model.<br />
-9. __CITATION.cff__ : <br>A Citation File Format (cff) file that provides citation data this repository<br />
+9. __CITATION.cff__ : <br>A Citation File Format (cff) file that provides citation data for this repository<br />
 
 ## DISCLAIMER
 This repository is created for an unpublished dissertation, written in partial fulfilment of the Master of Science (MSc) degree in Financial Economics at the University of Glasgow. The data and scripts provided in this repository are published for the dissertation's reference and the author's portfolio. Thus, this repository may be used for academic and research purposes only. The author is not responsible for any losses incurred from the repository's content outside of its intended use.
